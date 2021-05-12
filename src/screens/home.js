@@ -38,7 +38,7 @@ export default function HomeScreen() {
             'https://www.crushpixel.com/static14/preview2/abstract-modern-yellow-black-dots-1719202.jpg'
           }
           header={'Make an eye catchy visual in photoshop with brushes'}
-          tag={'ART'}
+          tag={'LIFE'}
           date={'5'}
           comments={15}
         />
